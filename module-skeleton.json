@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-related-content-react-native",
+  "capabilityKey": "liberusoftware/module-cms-related-content",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-related-content-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/related-content.md",
+  "presentationPlan": "projects/cms/react-native/related-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
